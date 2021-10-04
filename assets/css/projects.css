@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200&display=swap');
+
+body {
+  background-color: #0D1117;
+}
+
+hr {
+  color: gray;
+  width: 50%;
+}
+
+.title {
+  text-align: center;
+  color: #A66CFF;
+  font-size: 110px;
+  font-family: 'Stick No Bills', sans-serif;
+}
+
+.whitelight {
+  text-align: center;
+  color: #A66CFF;
+  font-size: 80px;
+  font-family: 'Stick No Bills', sans-serif;
+}
+
+.ief {
+  text-align: center;
+  color: #A66CFF;
+  font-size: 80px;
+  font-family: 'Stick No Bills', sans-serif;
+}
+
+.birdcord {
+  text-align: center;
+  color: #A66CFF;
+  font-size: 80px;
+  font-family: 'Stick No Bills', sans-serif;
+}
+
+.birdos {
+  text-align: center;
+  color: #A66CFF;
+  font-size: 80px;
+  font-family: 'Stick No Bills', sans-serif;
+}
+
+#allprojects {
+  color: white;
+  text-align: left;
+  font-size: 16px;
+  border-radius: 5px;
+  background: #161B22;
+  padding: 20px;
+  width: 600px;
+  height: 65px;
+}
+
+#whitelightabout {
+  color: white;
+  text-align: left;
+  font-size: 16px;
+  border-radius: 5px;
+  background: #161B22;
+  padding: 20px;
+  width: 600px;
+  height: 85px;
+}
+
+#iefabout {
+  color: white;
+  text-align: left;
+  font-size: 16px;
+  border-radius: 5px;
+  background: #161B22;
+  padding: 20px;
+  width: 600px;
+  height: 85px;
+}
+
+#birdcordabout {
+  color: white;
+  text-align: left;
+  font-size: 16px;
+  border-radius: 5px;
+  background: #161B22;
+  padding: 20px;
+  width: 600px;
+  height: 68px;
+}
+
+#birdosabout {
+  color: white;
+  text-align: left;
+  font-size: 16px;
+  border-radius: 5px;
+  background: #161B22;
+  padding: 20px;
+  width: 600px;
+  height: 85px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button5 {
+  background-color: #161B22;
+  color: white;
+  border: 2px solid #161B22;
+}
+
+.button5:hover {
+  opacity: 0.5;
+  background-color: #161B22;
+  color: white;
+}
