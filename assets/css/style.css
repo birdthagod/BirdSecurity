@@ -38,6 +38,8 @@ hr {
 }
 
 a {
+  font-family: 'Stick No Bills', sans-serif;
+  font-size: 16px;
   text-decoration: none;
   color: #A66CFF;
 }
