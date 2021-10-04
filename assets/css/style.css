@@ -33,7 +33,7 @@ hr {
 }
 
 #aboutme {
-  position: absolute;
+
   right: 630px;
   text-align: left;
   color: white;
@@ -41,8 +41,8 @@ hr {
   border-radius: 5px;
   background: #161B22;
   padding: 20px;
-  width: 400px;
-  height: 200px;
+  width: 600px;
+  height: 210px;
 }
 
 #neofetch {
@@ -69,13 +69,13 @@ hr {
 }
 
 #logo {
-  position: absolute;
+
   right: 1100px;
   bottom: 490px;
 }
 
 #pfp {
-  position: absolute;
+
   right: 880px;
   top: 1350px;
   border-radius: 50%;
