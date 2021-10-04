@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;500&display=swap');
+
+
+body {
+  background-color: #0D1117;
+}
+
+.title {
+  text-align: center;
+  color: #A66CFF;
+  font-size: 110px;
+  font-family: 'Stick No Bills', sans-serif;
+}
+
+.contactme {
+  text-align: center;
+  color: #A66CFF;
+  font-size: 80px;
+  font-family: 'Stick No Bills', sans-serif;
+}
+
+.aboutme {
+  text-align: center;
+  color: #A66CFF;
+  font-size: 80px;
+  font-family: 'Stick No Bills', sans-serif;
+}
+
+hr {
+  color: gray;
+  width: 50%;
+}
+
+#aboutme {
+  position: static;
+  right: 100px;
+  color: white;
+  text-align: left;
+  font-size: 19px;
+  border-radius: 5px;
+  background: #161B22;
+  padding: 20px;
+  width: 450px;
+  height: 260px;
+}
+
+#neofetch {
+  color: white;
+  text-align: left;
+  font-size: 16px;
+  border-radius: 5px;
+  background: #161B22;
+  padding: 20px;
+  width: 600px;
+  height: 15px;
+}
+
+#aboutmeo {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  text-align: left;
+  font-size: 19px;
+  border-radius: 5px;
+  background: #161B22;
+  padding: 20px;
+  width: 600px;
+  height: 360px;
+}
+
+#logo {
+  position: relative;
+  right: 1100px;
+  bottom: 490px;
+}
+
+#pfp {
+  border-radius: 50%;
+}
+
+#line {
+  position: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+  background: #161B22;
+  color: white;
+}
+
+.fa-instagram {
+  background: #161B22;
+  color: white;
+}
+
+.fa-github {
+  background: #161B22;
+  color: white;
+}
